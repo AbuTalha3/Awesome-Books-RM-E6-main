@@ -71,8 +71,8 @@ Clone this repository to your desired folder:
 Run this Command:
 
 ```sh
-  cd Awesome-Books-List
-  git clone git@github.com:mutesihope/Awesome-Books-List.git
+  cd my-folder
+  git clone git@github.com:AbuTalha3/Awesome-Books-E6.git
 ```
 
 ### Install
@@ -81,7 +81,7 @@ First you need to install the node package files
 Run this command:
 
 ```sh
-  cd Awesome-Books-List
+  cd Awesome-Bookss-E6
   npm install
 ```
 
@@ -117,7 +117,8 @@ I have added the linters or tests in order to avoid anykind of typos and ensure 
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="authors"></a>
+
 
 👤 Abu Talha
 
@@ -143,7 +144,7 @@ I have added the linters or tests in order to avoid anykind of typos and ensure 
 
 Contributions, issues, and feature requests are welcome!
 
-<!-- Feel free to check the [issues page](../../issues/). -->
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +160,7 @@ If you like this project just give it a star -
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse.
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
