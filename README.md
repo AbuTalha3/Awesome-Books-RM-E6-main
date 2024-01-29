@@ -27,7 +27,7 @@ An `Awesome books store project`, where you can enter the name and author of the
 ## 🛠 Built With <a name="built-with"></a>
 
 1-`HTML`
-2-CSS
+2-`CSS`
 3-JS
 
 ### Tech Stack <a name="tech-stack"></a>
