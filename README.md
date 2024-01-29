@@ -49,8 +49,8 @@ An `Awesome books store project`, where you can enter the name and author of the
 - Add **style.css** file.
 - Add **index.js** file.
 - Add **Linters**
-- Add Header to the index.html file.
-- Add global styling variables to style.css file.
+- Add Header to the **index.html** file.
+- Add global styling variables to **style.css** file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
