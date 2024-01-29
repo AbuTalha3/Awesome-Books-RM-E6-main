@@ -45,7 +45,7 @@ An `Awesome books store project`, where you can enter the name and author of the
 
 ### Key Features <a name="key-features"></a>
 
-- Add index.html file.
+- Add **index.html** file.
 - Add style.css file.
 - Add index.js file.
 - Add Linters.
