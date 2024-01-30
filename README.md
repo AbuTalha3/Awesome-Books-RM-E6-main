@@ -62,7 +62,7 @@ An `Awesome books store project`, where you can enter the name and author of the
 
 1- `Web Browser` 
 2- `Code Editor`
-3-Git
+3- `Git Bash`
 
 ### Setup
 
