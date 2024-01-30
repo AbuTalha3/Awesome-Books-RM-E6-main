@@ -60,7 +60,7 @@ An `Awesome books store project`, where you can enter the name and author of the
 
 ### Prerequisites
 
-1-Web Browser
+1- `Web Browser`
 2-Code Editor
 3-Git
 
