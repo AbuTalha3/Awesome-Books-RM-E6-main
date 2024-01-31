@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 Run this Command:
 
 ```sh
-  cd my-folder
+  `cd my-folder`
   git clone git@github.com:AbuTalha3/Awesome-Books-E6.git
 ```
 
