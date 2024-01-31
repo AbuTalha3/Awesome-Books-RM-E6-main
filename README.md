@@ -22,7 +22,7 @@
 
 # 📖 Awesome Books Project <a name="about-project"></a>
 
-An `Awesome books store project`, where you can enter the name and author of the books and have it stored, Developed using **`Hyper Text Markup Language`**, **`CSS`**, and **`JavaScript`**
+An `Awesome books store project`, where you can enter the name and author of the books and have it stored, Developed using **`Hyper Text Markup Language`**, **`Cascading Styles Sheet`**, and **`JavaScript`**
 
 ## 🛠 Built With <a name="built-with"></a>
 
