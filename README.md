@@ -88,7 +88,7 @@ Run this command:
 ### Usage
 
 - In order to use this project you either create a branch to add more features.
-- But in order to run the project open index.html with live server
+- But in order to run the project open index.html with a live server
 
 ### Run Linters
 
@@ -108,7 +108,7 @@ I have added the linters or tests in order to avoid any kind of typos and ensure
 
 ### Deployment
 
-- You can easily use GitHub pages, Netlify or Vercel to deploy your project
+- You can easily use GitHub pages, `Netlify` or Vercel to deploy your project
   <a href="https://docs.github.com/en/pages/quickstart">Useful link about Github Pages</a>
   <a href="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/">Step by Step guide to deploy using netlify</a>
   <a href="https://www.programonaut.com/host-your-application-for-free-with-vercel-step-by-step/">Step by Step guide to deploy using vercel</a>
