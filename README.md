@@ -160,7 +160,7 @@ If you like this project just give it a star -
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for providing us the opportunity to learn.
+I would like to thank `Microverse` for providing us with the opportunity to learn.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
